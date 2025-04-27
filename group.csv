@@ -1,25 +1,25 @@
-,FoodGroupID,FoodGroupCode,FoodGroupName,FoodGroupNameF
-0,1,1,Dairy and Egg Products,"Produits laitiers et d'oeufs
+,Unnamed: 0.1,Unnamed: 0,FoodGroupID,FoodGroupCode,FoodGroupName,FoodGroupNameF
+0,0,0,1,1,Dairy and Egg Products,"Produits laitiers et d'oeufs
 "
-1,2,2,Spices and Herbs,Épices et fines herbes
-2,3,3,Babyfoods,Aliments pour bébés
-3,4,4,Fats and Oils,Matières grasses et huiles
-4,5,5,Poultry Products,Produits de volaille
-5,6,6,"Soups, Sauces and Gravies",Potages et sauces
-6,7,7,Sausages and Luncheon meats,Saucisses et viandes froides
-7,8,8,Breakfast cereals,Céréales à déjeuner
-8,9,9,Fruits and fruit juices,Fruits et jus de fruits
-9,10,10,Pork Products,Produits de porc
-10,11,11,Vegetables and Vegetable Products,Légumes et produits végétaux
-11,12,12,Nuts and Seeds,Noix et graines
-12,13,13,Beef Products,Produits de boeuf
-13,14,14,Beverages,Boissons
-14,15,15,Finfish and Shellfish Products,"Produits de poissons, mollusques et crustacés"
-15,16,16,Legumes and Legume Products,Légumineuses et produits de légumineuses
-16,17,17,"Lamb, Veal and Game","Ageau, veau et gibier"
-17,18,18,Baked Products,Produits de boulangerie
-18,19,19,Sweets,Sucreries
-19,20,20,"Cereals, Grains and Pasta","Céréales, grains et pâtes"
-20,21,21,Fast Foods,Aliments prêts-à-manger
-21,22,22,Mixed Dishes,Mets composés
-22,25,25,Snacks,Grignotises
+1,1,1,2,2,Spices and Herbs,ÃÂpices et fines herbes
+2,2,2,3,3,Babyfoods,Aliments pour bÃÂ©bÃÂ©s
+3,3,3,4,4,Fats and Oils,MatiÃÂ¨res grasses et huiles
+4,4,4,5,5,Poultry Products,Produits de volaille
+5,5,5,6,6,"Soups, Sauces and Gravies",Potages et sauces
+6,6,6,7,7,Sausages and Luncheon meats,Saucisses et viandes froides
+7,7,7,8,8,Breakfast cereals,CÃÂ©rÃÂ©ales ÃÂ  dÃÂ©jeuner
+8,8,8,9,9,Fruits and fruit juices,Fruits et jus de fruits
+9,9,9,10,10,Pork Products,Produits de porc
+10,10,10,11,11,Vegetables and Vegetable Products,LÃÂ©gumes et produits vÃÂ©gÃÂ©taux
+11,11,11,12,12,Nuts and Seeds,Noix et graines
+12,12,12,13,13,Beef Products,Produits de boeuf
+13,13,13,14,14,Beverages,Boissons
+14,14,14,15,15,Finfish and Shellfish Products,"Produits de poissons, mollusques et crustacÃÂ©s"
+15,15,15,16,16,Legumes and Legume Products,LÃÂ©gumineuses et produits de lÃÂ©gumineuses
+16,16,16,17,17,"Lamb, Veal and Game","Ageau, veau et gibier"
+17,17,17,18,18,Baked Products,Produits de boulangerie
+18,18,18,19,19,Sweets,Sucreries
+19,19,19,20,20,"Cereals, Grains and Pasta","CÃÂ©rÃÂ©ales, grains et pÃÂ¢tes"
+20,20,20,21,21,Fast Foods,Aliments prÃÂªts-ÃÂ -manger
+21,21,21,22,22,Mixed Dishes,Mets composÃÂ©s
+22,22,22,25,25,Snacks,Grignotises
